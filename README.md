@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Niral Botale!  
 
-<!--
-**niral14/niral14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Analyst | Data Scientist**  
 
-Here are some ideas to get you started:
+## 🔍 About Me  
+I am a **final-year Electronics and Telecommunication Engineering student at PICT** 🎓 with a passion for **data analysis, machine learning, and visualization**.  
+I have experience in **analyzing datasets, building Power BI dashboards, and developing ML models** to extract meaningful insights.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 Currently seeking **Data Analyst** and **Data Scientist** roles to apply my analytical skills, problem-solving abilities, and technical expertise in data-driven decision-making.  
+
+## 🛠️ Skills  
+💻 **Programming & Databases**: Python 🐍, SQL, Java ☕  
+📊 **Data Analysis & Visualization**: Power BI, Pandas, Matplotlib, Seaborn  
+🤖 **Machine Learning**: Scikit-Learn, Sci-py  
+🌐 **Web Technologies**: HTML, CSS, JavaScript  
+⚡ **Soft Skills**: Problem-Solving, Critical Thinking, Communication, Leadership  
+
+## 📫 Let's Connect!  
+🔗 [LinkedIn](http://www.linkedin.com/in/niral-botale-52212924b) | 🏗️ [GitHub](https://github.com/niral14)  
