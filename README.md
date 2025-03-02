@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Niral Botale!  
+# 👋 Hi, I'm Niral!  
 
 📊 **Data Analyst | Data Scientist**  
 
